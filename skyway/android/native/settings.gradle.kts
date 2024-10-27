@@ -18,5 +18,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NewBinding"
-include(":newbinding")
+rootProject.name = "SkyWay"
+include(":skyway")

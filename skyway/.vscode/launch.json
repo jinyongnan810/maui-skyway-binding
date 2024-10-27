@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "HelloWorld",
+            "name": "luanch maui",
             "type": "maui",
             "request": "launch",
             "preLaunchTask": "maui: Build"

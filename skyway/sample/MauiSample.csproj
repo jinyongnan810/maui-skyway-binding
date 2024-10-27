@@ -61,18 +61,18 @@
 
 	<!-- Reference to MaciOS Binding project -->
 	<ItemGroup Condition="$(TargetFramework.Contains('ios')) Or $(TargetFramework.Contains('maccatalyst'))">
-        <ProjectReference Include="..\macios\NewBinding.MaciOS.Binding\NewBinding.MaciOS.Binding.csproj" />
+        <ProjectReference Include="..\macios\SkyWay.MaciOS.Binding\SkyWay.MaciOS.Binding.csproj" />
     </ItemGroup>
 
 	<!-- Reference to Android Binding project -->
 	<ItemGroup Condition="$(TargetFramework.Contains('android'))">
-        <ProjectReference Include="..\android\NewBinding.Android.Binding\NewBinding.Android.Binding.csproj" />
+        <ProjectReference Include="..\android\SkyWay.Android.Binding\SkyWay.Android.Binding.csproj" />
     </ItemGroup>
 
 	<!-- Reference the Android binding dependencies -->
 	<!-- Uncomment the code block below and update the AndroidLibrary path to point your dependency .aar -->
 	<!-- <ItemGroup Condition="$(TargetFramework.Contains('android'))">
-        <AndroidLibrary Include="..\android\native\newbinding\bin\Release\net8.0-android\outputs\deps\{yourDependencyLibrary.aar}">
+        <AndroidLibrary Include="..\android\native\skyway\bin\Release\net8.0-android\outputs\deps\{yourDependencyLibrary.aar}">
             <Bind>false</Bind>
             <Visible>false</Visible>
         </AndroidLibrary>

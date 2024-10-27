@@ -1,11 +1,11 @@
 ﻿namespace MauiSample;
 
 #if IOS || MACCATALYST
-using NewBinding = NewBindingMaciOS.DotnetNewBinding;
+using SkyWay = SkyWayMaciOS.DotnetSkyWay;
 #elif ANDROID
-using NewBinding = NewBindingAndroid.DotnetNewBinding;
+using SkyWay = SkyWayAndroid.DotnetSkyWay;
 #elif (NETSTANDARD || !PLATFORM) || (NET6_0_OR_GREATER && !IOS && !ANDROID)
-using NewBinding = System.Object;
+using SkyWay = System.Object;
 #endif
 
 public partial class MainPage : ContentPage
@@ -15,9 +15,9 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 
 		// Call the native binding, which will append a platform specific string to the input string
-		var labelText = NewBinding.GetString("Community Toolkit");
+		var labelText = SkyWay.GetString("Community Toolkit");
 
-		newBindingSampleLabel.Text = "Hello, " + labelText;
+		skywaySampleLabel.Text = "Hello, " + labelText;
 	}
 
 	async void OnDocsButtonClicked(object sender, EventArgs e)

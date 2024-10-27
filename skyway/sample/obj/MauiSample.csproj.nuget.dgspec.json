@@ -4,14 +4,14 @@
     "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/sample/MauiSample.csproj": {}
   },
   "projects": {
-    "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj": {
+    "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj",
-        "projectName": "NewBinding.Android.Binding",
-        "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj",
+        "projectUniqueName": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj",
+        "projectName": "SkyWay.Android.Binding",
+        "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj",
         "packagesPath": "/Users/kinyuunan/.nuget/packages/",
-        "outputPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/obj/",
+        "outputPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/SkyWay.Android.Binding/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj": {
+    "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj",
-        "projectName": "NewBinding.MaciOS.Binding",
-        "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj",
+        "projectUniqueName": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj",
+        "projectName": "SkyWay.MaciOS.Binding",
+        "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj",
         "packagesPath": "/Users/kinyuunan/.nuget/packages/",
-        "outputPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/obj/",
+        "outputPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -229,24 +229,24 @@
           "net8.0-android34.0": {
             "targetAlias": "net8.0-android",
             "projectReferences": {
-              "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj": {
-                "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj"
+              "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj": {
+                "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj"
               }
             }
           },
           "net8.0-ios18.0": {
             "targetAlias": "net8.0-ios",
             "projectReferences": {
-              "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj": {
-                "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj"
+              "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj": {
+                "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj"
               }
             }
           },
           "net8.0-maccatalyst18.0": {
             "targetAlias": "net8.0-maccatalyst",
             "projectReferences": {
-              "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj": {
-                "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj"
+              "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj": {
+                "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj"
               }
             }
           }

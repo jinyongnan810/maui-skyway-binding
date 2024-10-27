@@ -11,24 +11,24 @@
                 Source="dotnet_bot.png"
                 HeightRequest="185"
                 Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a race car number eight" />
+                SemanticProperties.Description="dot net bot in a race car number eight"/>
 
             <Label
-                x:Name="newBindingSampleLabel"
+                x:Name="skywaySampleLabel"
                 Text="Hello, World!"
                 Style="{StaticResource Headline}"
-                SemanticProperties.HeadingLevel="Level1" />
+                SemanticProperties.HeadingLevel="Level1"/>
 
             <Label
                 Text="Create new bindings using Native Library Interop"
                 Style="{StaticResource SubHeadline}"
-                SemanticProperties.HeadingLevel="Level2" />
+                SemanticProperties.HeadingLevel="Level2"/>
 
             <Button
-                Text="Get Started" 
+                Text="Get Started"
                 SemanticProperties.Hint="Navigates to getting started documentation"
                 Clicked="OnDocsButtonClicked"
-                HorizontalOptions="Fill" />
+                HorizontalOptions="Fill"/>
         </VerticalStackLayout>
     </ScrollView>
 

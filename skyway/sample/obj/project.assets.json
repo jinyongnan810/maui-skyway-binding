@@ -2207,14 +2207,14 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "NewBinding.Android.Binding/1.0.0": {
+      "SkyWay.Android.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         }
       }
     },
@@ -4424,14 +4424,14 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "NewBinding.Android.Binding/1.0.0": {
+      "SkyWay.Android.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         }
       }
     },
@@ -6641,14 +6641,14 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "NewBinding.Android.Binding/1.0.0": {
+      "SkyWay.Android.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         }
       }
     },
@@ -8858,14 +8858,14 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "NewBinding.Android.Binding/1.0.0": {
+      "SkyWay.Android.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         }
       }
     },
@@ -11075,14 +11075,14 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "NewBinding.Android.Binding/1.0.0": {
+      "SkyWay.Android.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         }
       }
     },
@@ -13292,14 +13292,14 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "NewBinding.Android.Binding/1.0.0": {
+      "SkyWay.Android.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         }
       }
     },
@@ -15509,14 +15509,14 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "NewBinding.Android.Binding/1.0.0": {
+      "SkyWay.Android.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.Android.Binding.dll": {}
+          "bin/placeholder/SkyWay.Android.Binding.dll": {}
         }
       }
     },
@@ -15940,14 +15940,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -16371,14 +16371,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -16802,14 +16802,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -17233,14 +17233,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -17664,14 +17664,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -18095,14 +18095,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -18526,14 +18526,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -18957,14 +18957,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -19388,14 +19388,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -19819,14 +19819,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -20250,14 +20250,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -20681,14 +20681,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -21112,14 +21112,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     },
@@ -21543,14 +21543,14 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "NewBinding.MaciOS.Binding/1.0.0": {
+      "SkyWay.MaciOS.Binding/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NewBinding.MaciOS.Binding.dll": {}
+          "bin/placeholder/SkyWay.MaciOS.Binding.dll": {}
         }
       }
     }
@@ -24819,15 +24819,15 @@
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
     },
-    "NewBinding.Android.Binding/1.0.0": {
+    "SkyWay.Android.Binding/1.0.0": {
       "type": "project",
-      "path": "../android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj",
-      "msbuildProject": "../android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj"
+      "path": "../android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj",
+      "msbuildProject": "../android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj"
     },
-    "NewBinding.MaciOS.Binding/1.0.0": {
+    "SkyWay.MaciOS.Binding/1.0.0": {
       "type": "project",
-      "path": "../macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj",
-      "msbuildProject": "../macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj"
+      "path": "../macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj",
+      "msbuildProject": "../macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -24836,21 +24836,21 @@
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
-      "NewBinding.Android.Binding >= 1.0.0"
+      "SkyWay.Android.Binding >= 1.0.0"
     ],
     "net8.0-ios18.0": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
-      "NewBinding.MaciOS.Binding >= 1.0.0"
+      "SkyWay.MaciOS.Binding >= 1.0.0"
     ],
     "net8.0-maccatalyst18.0": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
-      "NewBinding.MaciOS.Binding >= 1.0.0"
+      "SkyWay.MaciOS.Binding >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -24884,24 +24884,24 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "projectReferences": {
-            "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj": {
-              "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj"
+            "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj": {
+              "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/SkyWay.Android.Binding/SkyWay.Android.Binding.csproj"
             }
           }
         },
         "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
           "projectReferences": {
-            "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj": {
-              "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj"
+            "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj": {
+              "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj"
             }
           }
         },
         "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
           "projectReferences": {
-            "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj": {
-              "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/NewBinding.MaciOS.Binding/NewBinding.MaciOS.Binding.csproj"
+            "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj": {
+              "projectPath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/macios/SkyWay.MaciOS.Binding/SkyWay.MaciOS.Binding.csproj"
             }
           }
         }
