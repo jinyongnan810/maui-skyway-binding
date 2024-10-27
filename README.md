@@ -4,7 +4,7 @@
 # Steps
 
 - [x] running the template
-- [ ] update default project name and bundle ids
+- [x] update default project name and bundle ids
 - [ ] iOS
   - [ ] install skyway
   - [ ] setup, join, leave
