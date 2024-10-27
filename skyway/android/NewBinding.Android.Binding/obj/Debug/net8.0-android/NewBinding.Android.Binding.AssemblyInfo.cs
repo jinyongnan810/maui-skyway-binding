@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Reflection.AssemblyMetadata("IsTrimmable", "True")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewBinding.Android.Binding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76f4d8fd2b240213217cfad4e1963fa2981b4c72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7a4102f8e512e7c552afc554c0355bacbfe8362")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewBinding.Android.Binding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewBinding.Android.Binding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,6 +14,20 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       }
+    },
+    "net8.0-android34.0/iossimulator-arm64": {
+      "CommunityToolkit.Maui.NativeLibraryInterop.BuildTasks/0.0.1-pre1": {
+        "type": "package",
+        "build": {
+          "build/CommunityToolkit.Maui.NativeLibraryInterop.BuildTasks.targets": {}
+        }
+      },
+      "Microsoft.NET.ILLink.Tasks/8.0.10": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -170,6 +184,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "iossimulator-arm64": {
+        "#import": []
       }
     }
   }
