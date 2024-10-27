@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N6S9nbd+jQs=",
+  "success": true,
+  "projectFilePath": "/Users/kinyuunan/Documents/GitHub/maui-skyway-binding/skyway/android/NewBinding.Android.Binding/NewBinding.Android.Binding.csproj",
+  "expectedPackageFiles": [
+    "/Users/kinyuunan/.nuget/packages/communitytoolkit.maui.nativelibraryinterop.buildtasks/0.0.1-pre1/communitytoolkit.maui.nativelibraryinterop.buildtasks.0.0.1-pre1.nupkg.sha512",
+    "/Users/kinyuunan/.nuget/packages/microsoft.net.illink.tasks/8.0.10/microsoft.net.illink.tasks.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
