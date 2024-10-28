@@ -75,6 +75,9 @@ public class DotnetSkyWay : NSObject
         }
         try? await member.leave()
         log(text: "end leaving room.")
+        log(text: "start Context dispose.")
+        try? await Context.dispose()
+        log(text: "end Context dispose.")
         logSeperator()
     }
 

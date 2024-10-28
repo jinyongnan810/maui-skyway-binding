@@ -7,11 +7,11 @@ namespace SkyWayMaciOS
 	interface DotnetSkyWay
 	{
 		[Static]
-		[Export("joinWithToken:")]
+		[Export("joinWithToken:roomId:userId:")]
 		void join(string token, string roomId, string userId);
 
 		[Static]
-		[Export("join:")]
+		[Export("leave")]
 		void leave();
 	}
 }
