@@ -6,9 +6,12 @@ namespace SkyWayMaciOS
 	[BaseType(typeof(NSObject))]
 	interface DotnetSkyWay
 	{
-		// +(NSString * _Nonnull)getStringWithMyString:(NSString * _Nonnull)myString __attribute__((warn_unused_result("")));
 		[Static]
-		[Export("getStringWithMyString:")]
-		string GetString(string myString);
+		[Export("joinWithToken:")]
+		void join(string token, string roomId, string userId);
+
+		[Static]
+		[Export("join:")]
+		void leave();
 	}
 }

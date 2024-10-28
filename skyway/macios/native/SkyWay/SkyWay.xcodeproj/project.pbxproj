@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		147B12F42CCF2D4B00671B44 /* SkyWayRoom in Frameworks */ = {isa = PBXBuildFile; productRef = 147B12F32CCF2D4B00671B44 /* SkyWayRoom */; };
 		83E34F572C21CB2B008AA950 /* SkyWay.h in Headers */ = {isa = PBXBuildFile; fileRef = 83E34F562C21CB2B008AA950 /* SkyWay.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		83E34F5E2C21CC53008AA950 /* DotnetSkyWay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E34F5D2C21CC53008AA950 /* DotnetSkyWay.swift */; };
 /* End PBXBuildFile section */
@@ -22,6 +23,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				147B12F42CCF2D4B00671B44 /* SkyWayRoom in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,6 +111,9 @@
 				Base,
 			);
 			mainGroup = 83E34F492C21CB2B008AA950;
+			packageReferences = (
+				147B12F22CCF2D4B00671B44 /* XCRemoteSwiftPackageReference "ios-sdk" */,
+			);
 			productRefGroup = 83E34F542C21CB2B008AA950 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -369,6 +374,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		147B12F22CCF2D4B00671B44 /* XCRemoteSwiftPackageReference "ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/skyway/ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.1.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		147B12F32CCF2D4B00671B44 /* SkyWayRoom */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 147B12F22CCF2D4B00671B44 /* XCRemoteSwiftPackageReference "ios-sdk" */;
+			productName = SkyWayRoom;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 83E34F4A2C21CB2B008AA950 /* Project object */;
 }
