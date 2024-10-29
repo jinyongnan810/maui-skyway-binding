@@ -1,6 +1,6 @@
 ﻿namespace MauiSample;
 
-#if IOS || MACCATALYST
+#if IOS
 using SkyWay = SkyWayMaciOS.DotnetSkyWay;
 #elif ANDROID
 using SkyWay = SkyWayAndroid.DotnetSkyWay;
@@ -13,11 +13,7 @@ public partial class MainPage : ContentPage
 	public MainPage()
 	{
 		InitializeComponent();
-
-		// Call the native binding, which will append a platform specific string to the input string
-		var labelText = SkyWay.GetString("Community Toolkit");
-
-		skywaySampleLabel.Text = "Hello, " + labelText;
+		SkyWay.join(token: "token", roomId: "room", userId: "user");
 	}
 
 	async void OnDocsButtonClicked(object sender, EventArgs e)
